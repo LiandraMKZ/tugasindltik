@@ -39,7 +39,7 @@ def volumeb(p,l,t):
 print (volumeb(10,11,12))
 
 # default value
-def greetings(nama = "kuro"):
+def greetings(nama = "Noci"):
     print (f"halo,{nama}!")
 
 greetings()
